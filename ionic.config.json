@@ -1,7 +1,0 @@
-{
-  "name": "teamup",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "ionic-angular"
-}
